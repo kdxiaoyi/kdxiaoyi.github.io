@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>搜索kdXiaoyi的blog</title>
+  </head>
+  <body>
+    <h3>kdXiaoyi博客搜索</h3>
+      <script>
+        function OnSearchBtnClicked() {
+         var githubP_url = "https://kdxiaoyi.github.io/blogs";
+         var searchInput = document.getElementById('txt');
+         var searchKey = searchInput.value;
+         var bingurl="http://global.bing.com/search?q="+searchKey+"+site%3a" + githubP_url + "&qs=n&sp=-1&pq="+ searchKey +"&sc=8-0&sk=&setmkt=en-us&setlang=zh-cn&FORM=SECNEN";
+         window.location.href=bingurl;
+         }
+      </script>
+    <input id="txt" type="text" name="txt" value="">
+      <button onclick="OnSearchBtnClicked()">BUG 搜索</button> 
+  </body>
+</html>
