@@ -6,25 +6,22 @@
 	<script type="text/javascript" src="https://qzonestyle.gtimg.cn/qzone/hybrid/app/404/search_children.js" charset="utf-8" homePageUrl="http://kdxiaoyi.github.io/index" homePageName="回到主页"></script>
 </head>
 <body>
-	
 <div class="footer">
   <p>404页面正在加载。请稍后。</p>
   <button onclick="back()">直接返回上一页</button> 
   <p>kdXiaoyi Copyright © 2022. All Rights Reserved.</p>
   <script>
     function back() {
-      // 利用8种方法返回
+      // 利用7种方法返回
       window.history.go(-1);
       window.history.back(-1);
       window.history.back();
       history.go(-1);
       history.back(-1);
       history.back();
-      // 这2种方法防止一些人开新窗，但我也不知道好不好用
+      // 这1种方法防止一些人开新窗，但我也不知道好不好用
       const prevPageUrl = document.referer;
       document.location,href = prevPageUrl;
-      // 要是不能返回就直接关闭
-      window.close();
      }
 </script>
 </div>
