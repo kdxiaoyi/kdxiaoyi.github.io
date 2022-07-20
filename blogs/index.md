@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "kdXiaoyi's Blog"
-permalink: /blogs/index.html
+permalink: /blogs/index
 ---
 # kdXiaoyi's Blog
 这里是kdXiaoyi白嫖github建立的一个个人博客

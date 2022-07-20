@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "kdXiaoyi"
+permalink: /index
 ---
 # kdXiaoyi
 一个普通的MC正版玩家/BATCH脚本发烧友
