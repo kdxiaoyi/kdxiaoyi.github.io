@@ -9,6 +9,7 @@
 欢迎关注！
 * [Bilibili](https://space.bilibili.com/1987247870)
 * [Github](http://github.com/kdxiaoyi)
+* [个人博客](http://kdxiaoyi.github.io/blos/index)
 
 # 赞助
 敬请期待。
