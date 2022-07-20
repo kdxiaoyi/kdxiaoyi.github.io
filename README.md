@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# kdXiaoyi
+一个普通的MC正版玩家/BATCH脚本发烧友
 
-You can use the [editor on GitHub](https://github.com/kdXiaoyi/kdxiaoyi.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# 项目
+* [![Change sys by batch](https://user-images.githubusercontent.com/96934144/179977724-8384906e-cc85-4750-add5-198ac18dcf08.png) Change sys by batch](http://kdxiaoyi.github.io/change-sys-by-batch)
+* [核爆系统工具箱（收集各类工具资源且下载不限速）](http://pan.huang1111.cn/s/2Q4XTN)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 社交媒体
+欢迎关注！
+* [Bilibili](https://space.bilibili.com/1987247870)
+* [Github](http://github.com/kdxiaoyi)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kdXiaoyi/kdxiaoyi.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# 赞助
+敬请期待。
