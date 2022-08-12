@@ -5,7 +5,7 @@
 
 # 项目
 * [![Change sys by batch](https://user-images.githubusercontent.com/96934144/179977724-8384906e-cc85-4750-add5-198ac18dcf08.png) Change sys by batch](http://kdxiaoyi.github.io/change-sys-by-batch)
-* [核爆系统工具箱（收集各类工具资源且下载不限速）](http://pan.huang1111.cn/s/2Q4XTN)
+* [资源收集与分享](http://kdxiaoyi.github.io/resource-share)
 
 # 社交媒体
 欢迎关注！
