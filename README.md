@@ -21,6 +21,6 @@
 
 [Github 仓库地址](http://github.com/kdxiaoyi.github.io)
 
-[提交主页反馈](http://github.com/kdXiaoyi/kdxiaoyi.github.io/issues/new)
+[提交主页反馈](http://github.com/kdXiaoyi/kdxiaoyi.github.io/issues/new/choose)
 
 [检索主页反馈](https://github.com/kdXiaoyi/kdxiaoyi.github.io/issues?q=is%3Aissue)

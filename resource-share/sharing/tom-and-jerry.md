@@ -16,4 +16,4 @@
 Markdown的删除线是啥来着？
 
 ## 4.链接在2022-08-15之后也挂掉了
-请[提交主页反馈](http://github.com/kdXiaoyi/kdxiaoyi.github.io/issues/new)
+请[提交主页反馈](http://github.com/kdXiaoyi/kdxiaoyi.github.io/issues/new/choose)
