@@ -19,7 +19,7 @@
 # 关于主页
 白嫖github就是香
 
-[Github 仓库地址](http://github.com/kdxiaoyi.github.io)
+[Github 仓库地址](http://github.com/kdXiaoyi/kdxiaoyi.github.io)
 
 [提交主页反馈](http://github.com/kdXiaoyi/kdxiaoyi.github.io/issues/new/choose)
 
