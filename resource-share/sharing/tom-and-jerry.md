@@ -1,4 +1,4 @@
-# [< ](http://kdxiaoyi.github.io/resource-share/)猫和老鼠 480P 无套路不限速下载
+# 猫和老鼠 480P 无套路不限速下载
 [点我即可](https://pan.huang1111.cn/s/zdXZHM)
 
 记得看完下面的常见问题
