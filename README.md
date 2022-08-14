@@ -4,12 +4,12 @@
 [个人博客](http://kdxiaoyi.github.io/blogs/)
 
 # 项目
-* [![Change sys by batch](https://user-images.githubusercontent.com/96934144/179977724-8384906e-cc85-4750-add5-198ac18dcf08.png) Change sys by batch](http://kdxiaoyi.github.io/change-sys-by-batch)
+* [![Change sys by batch](http://user-images.githubusercontent.com/96934144/179977724-8384906e-cc85-4750-add5-198ac18dcf08.png) Change sys by batch](http://kdxiaoyi.github.io/change-sys-by-batch)
 * [资源收集与分享](http://kdxiaoyi.github.io/resource-share)
 
 # 社交媒体
 欢迎关注！
-* [Bilibili](https://space.bilibili.com/1987247870)
+* [Bilibili](http://space.bilibili.com/1987247870)
 * [Github](http://github.com/kdxiaoyi)
 * [个人博客](http://kdxiaoyi.github.io/blogs/index)
 
@@ -23,4 +23,4 @@
 
 [提交主页反馈](http://github.com/kdXiaoyi/kdxiaoyi.github.io/issues/new/choose)
 
-[检索主页反馈](https://github.com/kdXiaoyi/kdxiaoyi.github.io/issues?q=is%3Aissue)
+[检索主页反馈](http://github.com/kdXiaoyi/kdxiaoyi.github.io/issues?q=is%3Aissue)

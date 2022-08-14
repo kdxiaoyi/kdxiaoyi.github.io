@@ -7,3 +7,4 @@ _TIP: 键入`kdxiaoyi.github.io/blogs/[年份]/[BLOG序号]/`快速打开博客_
 
 # 2022
 ### [#1 利用Github Pages白嫖个人博客](http://kdxiaoyi.github.io/blogs/2022/1)
+### [#2 ](/blogs/2022/2))
