@@ -6,5 +6,6 @@
 _TIP: 键入`kdxiaoyi.github.io/blogs/[年份]/[BLOG序号]/`快速打开博客_
 
 # 2022
+### [#3 博客做静态跳转网页](/blogs/2022/3)
 ### [#2 个人博客白嫖视频播放](/blogs/2022/2)
 ### [#1 利用Github Pages白嫖个人博客](/blogs/2022/1)
