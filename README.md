@@ -1,6 +1,8 @@
 # kdXiaoyi
 一个普通的MC正版玩家/BATCH脚本发烧友
 
+最近刚买全套《[非](//b23.tv/BV1Tb411k7iE)[人](//v.qq.com/x/cover/mzc00200ygmoqes/s0043xi5c9a.html)哉》，没钱了
+
 [个人博客](//kdxiaoyi.github.io/blogs/)
 
 [论坛 English](//github.com/kdXiaoyi/kdxiaoyi.github.io/discussions)
