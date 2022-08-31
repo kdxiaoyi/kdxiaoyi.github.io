@@ -18,9 +18,7 @@ ZIP -SHA256-> 9c52112451b92e1404c313a2c17891e5b86ed79fa8bd7a3d1d2349384b773ed3
 
 那个mp4是161 All in one版本，有水印，也是你们在B站看到的视频
 ### 3.压缩包密码？
-首先，打开微信，搜索公众号[xxxxxxxxxxxxxxx]，之后回复[xxxxxxxxxxx]，打开链接，输入密码[xxxxxxx]，你就得到压缩包密码[kdx]了。。。。。。
-
-Markdown的删除线是啥来着？
+~~首先，打开微信，搜索公众号[xxxxxxxxxxxxxxx]，之后回复[xxxxxxxxxxx]，打开链接，输入密码[xxxxxxx]，~~ 你就得到压缩包密码[kdx]了。。。。。。
 
 ### 4.链接在2022-08-15之后也挂掉了
 请[提交主页反馈](http://github.com/kdXiaoyi/kdxiaoyi.github.io/issues/new/choose)
