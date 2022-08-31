@@ -1,0 +1,22 @@
+<!-- 页面跳转 --!>
+<head>
+    <title>Jumping... | kdXiaoyi</title>
+    <script type="text/javascript">
+      function getQueryString(name) {
+       let reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)", "i");
+       let r = window.location.search.substr(1).match(reg);
+       if (r != null) {
+         return unescape(r[2]);
+        };
+       return null;
+       }
+    </script>
+    <script>
+        window.location=getQueryString('url')
+        // 这个url就是参数名
+    </script>
+</head>
+<body>
+    <h1>正在跳转，请稍后……</h1>
+    <a href="https://kdxiaoyi.github.io/"><h6>kdXiaoyi.github.io</h6></a>
+</body>
