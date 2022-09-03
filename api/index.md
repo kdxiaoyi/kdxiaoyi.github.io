@@ -33,3 +33,28 @@ back= [1]
 如果为`1`，将会跳转后进行**一次**返回
 
 这适用于：*e.g.* 当不识别MS-STORE链接时用[MS-STORE链接调用MSStore](http://kdxiaoyi.github.io/api/jump.htm?back=1&u=ms-windows-store://pdp/?ProductId=9WZDNCRFHVN5)
+## [Bilibili Vedio Player](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/bili_vedio.htm)
+播放B站站内视频，请使用`iframe`调用
+```
+bili_vedio.htm
+dm= [0|1]
+av= <value>
+bv= <value>
+p= [Int]
+```
+### dm
+控制是否启用弹幕。`1`为启用，也为默认
+### av & bv
+至少提供一个。
+
+av格式：`一串数字`
+
+bv格式：`BVxxxxxxx`
+
+获取方式：
+```
+AV：视频分享选择嵌入链接，从得到的HTML中avid后面值找到。或者AV视频看视频URL
+BV：通常在URL后面有
+```
+### p
+提供一个整数。如果对于多P视频则有效，否则为`1`。
