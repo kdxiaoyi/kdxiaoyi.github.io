@@ -27,8 +27,8 @@
 
 图床主要来自[路过图床](//imgse.com) 和 [Github Image](//github.com)
 
-[Github 仓库地址](//github.com/kdXiaoyi/kdxiaoyi.github.io)
+你可以在[这里](/api/index)查询此Github.io的API文档
 
-[提交主页反馈](//github.com/kdXiaoyi/kdxiaoyi.github.io/issues/new/choose)
-
-[检索主页反馈](//github.com/kdXiaoyi/kdxiaoyi.github.io/issues?q=is%3Aissue)
+| 关于此Github.io | ISSUES |
+|-|-|
+| [Github 仓库地址](//github.com/kdXiaoyi/kdxiaoyi.github.io) | [提交主页反馈](//github.com/kdXiaoyi/kdxiaoyi.github.io/issues/new/choose) 或 [检索主页反馈](//github.com/kdXiaoyi/kdxiaoyi.github.io/issues?q=is%3Aissue) |
