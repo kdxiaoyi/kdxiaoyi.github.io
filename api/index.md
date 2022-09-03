@@ -42,6 +42,7 @@ av= <value>
 bv= <value>
 p= [Int]
 ```
+*e.g.* [HERE](//kdXiaoyi.github.io/api/bili_vedio.htm?dm=1&av=386414259&bv=BV1Ad4y1U7Ad%p=1)
 ### dm
 控制是否启用弹幕。`1`为启用，也为默认
 ### av & bv
