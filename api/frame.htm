@@ -1,0 +1,32 @@
+<!-- 浏览框架 -->
+<head>
+    <meta charset="utf-8">
+    <title README="本页面内容不代表kdXiaoyi.github.io的任何观点">INTERNET EXPLORER FRAME - kdXiaoyi.github.io</title>
+    <script>
+      function getQueryString(name) {
+       let reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)", "i");
+       let r = window.location.search.substr(1).match(reg);
+       if (r != null) {
+         return unescape(r[2]);
+        };
+       return null;
+       }
+       function back() {
+       window.history.back(-1);
+       }
+       function homo() {
+        // HOMO特有的无孔不入（悲
+       window.location="http://kdxiaoyi.github.io/";
+       }
+    </script>
+    <script>
+      // 页面运行载入框架
+      document.getElementById("iframeId").src = getQueryString("url");
+      // 判断是否启用前往目标页
+      if (getQueryString("goto") == "false") {document.getElementById("goto").disabled="disabled";}
+    </script>
+</head>
+<body>
+    <button id="submit" type="button" onclick="back()" function="back">← 返回</button><button id="INDEX" type="button" onclick="homo()" function="homo">主页</button><button id="goto" type="button" onclick="goto()" function="goto" disabled="enabled">前往目标网址 →</button>
+    <iframe id="iframeId" src="http://space.bilibili.com/1987247870" width="100%" height="93%">233</iframe>"
+</body>
