@@ -9,7 +9,7 @@ API统一调用路径：`//kdXiaoyi.github.io/api/`
 点击标题可以查看源码
 
 其中`<>`的参数您必须提供，`[]`参数选择性提供
-## [frame](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/frame.htm) **未实现**
+## [frame](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/frame.htm)
 提供一个预览框架
 ```
 frame.htm

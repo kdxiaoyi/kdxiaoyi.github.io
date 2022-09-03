@@ -1,7 +1,17 @@
 <!-- 浏览框架 -->
+<!doctype html>
 <head>
     <meta charset="utf-8">
     <title README="本页面内容不代表kdXiaoyi.github.io的任何观点">INTERNET EXPLORER FRAME - kdXiaoyi.github.io</title>
+    <style type="text/css">
+      html,
+      body,
+      iframe {
+          margin: 0 0;
+          width: 99.85%;
+          height: 99%;
+      }
+    </style>
     <script>
       function getQueryString(name) {
         let reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)", "i");
@@ -24,7 +34,16 @@
         if (getQueryString("goto") == "f") {return;} else {window.location=document.getElementById("ifr").src;}
         return;
       }
+      function tip() {
+        alert("相关内容由以下第三方提供。kdXiaoyi.github.io不对其行为负责。\n\n"+document.getElementById("ifr").src);
+      }
     </script>
+</head>
+<body>
+    <button id="submit" type="button" onclick="back()" function="back">← 返回</button><button id="INDEX" type="button" onclick="homo()" function="homo">kdXiaoyi.github.io</button><button id="tip" onclick="tip()" function="tip">声明</button><button id="goto" onclick="goto()" function="goto">前往目标网址 →</button>
+    <div style="text-align:center; height: 99%">
+      <iframe id="ifr" src="http://space.bilibili.com/1987247870" width="100%" height="99%">233</iframe>
+    </div>
     <script>
       // 判断是否启用前往目标页
       if (getQueryString("goto") == "f") {
@@ -39,8 +58,4 @@
       // 页面运行载入框架
       document.getElementById("ifr").src = getQueryString("url");
     </script>
-</head>
-<body>
-    <button id="submit" type="button" onclick="back()" function="back">← 返回</button><button id="INDEX" type="button" onclick="homo()" function="homo">主页</button><button id="goto" onclick="goto()" function="goto">前往目标网址 →</button>
-    <iframe id="ifr" src="http://space.bilibili.com/1987247870" width="100%" height="93%">233</iframe>
 </body>
