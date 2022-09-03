@@ -1,4 +1,5 @@
 # kdXiaoyi.github.io API使用文档
+[在GITHUB上查看 >](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/index.md#kdxiaoyigithubio-api%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3)
 # What's API on kdXiaoyi.github.io?
 为了完成亿些奇奇怪怪的操作，有时必须开发一些API来帮助个人网址建设。
 
