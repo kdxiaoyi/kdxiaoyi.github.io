@@ -13,6 +13,8 @@
     <script>
         window.location=getQueryString('u')
         // 这个u就是参数名
+        if (getQueryString('back') == "1") {windows.history.back();}
+        return
     </script>
 </head>
 <body>
