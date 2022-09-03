@@ -9,12 +9,15 @@
         };
        return null;
        }
+       function back() {
+        if (getQueryString('back') == "1") {windows.history.back();}
+        return
+       }
     </script>
     <script>
         window.location=getQueryString('u')
         // 这个u就是参数名
-        if (getQueryString('back') == "1") {windows.history.back();}
-        return
+        setTimeout(back(),1000)
     </script>
 </head>
 <body>
