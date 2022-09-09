@@ -35,7 +35,7 @@ back= [1]
 
 这适用于：*e.g.* 当不识别MS-STORE链接时用[MS-STORE链接调用MSStore](http://kdxiaoyi.github.io/api/jump.htm?back=1&u=ms-windows-store://pdp/?ProductId=9WZDNCRFHVN5)
 ## [Bilibili Vedio Player](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/bili_vedio.htm)
-播放B站站内视频，请使用`iframe`调用
+播放B站站内视频，请使用`iframe`调用。对于网页加参数修改iframe地址，请参阅[`frame.htm`](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/frame.htm)
 ```
 bili_vedio.htm
 dm= [0|1]
@@ -60,3 +60,5 @@ BV：通常在URL后面有
 ```
 ### p
 提供一个整数。如果对于多P视频则有效，否则为`1`。
+
+## [Back](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/back.htm)
