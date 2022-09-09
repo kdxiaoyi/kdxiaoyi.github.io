@@ -1,5 +1,7 @@
 # kdXiaoyi.github.io API使用文档
 [在GITHUB上查看 >](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/index.md#kdxiaoyigithubio-api%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3)
+
+[在GITHUB.IO站点上查看 >](https://kdxiaoyi.github.io/api/jump.htm?u=//kdxiaoyi.github.io/api)
 # What's API on kdXiaoyi.github.io?
 为了完成亿些奇奇怪怪的操作，有时必须开发一些API来帮助个人网址建设。
 
@@ -60,5 +62,3 @@ BV：通常在URL后面有
 ```
 ### p
 提供一个整数。如果对于多P视频则有效，否则为`1`。
-
-## [Back](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/back.htm)
