@@ -62,3 +62,8 @@ BV：通常在URL后面有
 ```
 ### p
 提供一个整数。如果对于多P视频则有效，否则为`1`。
+## [Bilibili Vedio Player](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/back.htm)
+没有任何参数。调用后产生2次返回
+```
+back.htm
+```
