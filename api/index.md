@@ -1,21 +1,24 @@
 # kdXiaoyi.github.io API使用文档
-[在GITHUB上查看 >](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/index.md#kdxiaoyigithubio-api%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3)
+[在GITHUB上查看 >](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/index.md)
 
 [在GITHUB.IO站点上查看 >](https://kdxiaoyi.github.io/api/jump.htm?u=//kdxiaoyi.github.io/api)
 # What's API on kdXiaoyi.github.io?
 为了完成亿些奇奇怪怪的操作，有时必须开发一些API来帮助个人网址建设。
 
 您完全可以免费使用这些api！
-# API LIST
-API统一调用路径：`//kdXiaoyi.github.io/api/`
+# 主域API
+这个API统一调用路径：`//kdXiaoyi.github.io/api/`
 
 点击标题可以查看源码
 
 其中`<>`的参数您必须提供，`[]`参数选择性提供
-## [frame](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/frame.htm)
+
+
+## [ifr](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/ifr.htm)
 提供一个预览框架
 ```
-frame.htm
+ifr.htm
+---
 url= <VALUE>
 goto= [f]
 ```
@@ -23,10 +26,13 @@ goto= [f]
 提供一个要预览的URL
 ### goto 
 如果为`f`，将不允许用户前往此URL
+
+
 ## [jump](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/jump.htm)
 提供一个跳转通道
 ```
 jump.htm
+---
 u= <VALUE>
 back= [1]
 ```
@@ -36,10 +42,13 @@ back= [1]
 如果为`1`，将会跳转后进行**一次**返回
 
 这适用于：*e.g.* 当不识别MS-STORE链接时用[MS-STORE链接调用MSStore](http://kdxiaoyi.github.io/api/jump.htm?back=1&u=ms-windows-store://pdp/?ProductId=9WZDNCRFHVN5)
+
+
 ## [Bilibili Vedio Player](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/bili_vedio.htm)
 播放B站站内视频，请使用`iframe`调用。对于网页加参数修改iframe地址，请参阅[`frame.htm`](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/frame.htm)
 ```
 bili_vedio.htm
+---
 dm= [0|1]
 av= <value>
 bv= <value>
@@ -62,8 +71,24 @@ BV：通常在URL后面有
 ```
 ### p
 提供一个整数。如果对于多P视频则有效，否则为`1`。
+
+
 ## [Back](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/back.htm)
 没有任何参数。调用后产生2次返回
 ```
 back.htm
+---
 ```
+
+
+## [ms-office](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/ms-office.htm) **未实现**
+调用Microsoft Office Web Client打开OFFICE文档
+```
+ms-office.htm
+---
+src= <Office Path>
+```
+### Office Path
+目标文档的网络路径，目前支持：[DOC]()/PPT/XLS及其-X变种、模板变种、RTF文档
+
+https://view.officeapps.live.com/op/view.aspx?src=
