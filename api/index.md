@@ -81,14 +81,14 @@ back.htm
 ```
 
 
-## [ms-office](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/ms-office.htm) **未实现**
+## [ms-office](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/ms-office.htm)
 调用Microsoft Office Web Client打开OFFICE文档
 ```
 ms-office.htm
 ---
 src= <Office Path>
 ```
-### Office Path
-目标文档的网络路径，目前支持：[DOC]()/PPT/XLS及其-X变种、模板变种、RTF文档
+### src
+目标文档的网络路径，目前支持：[DOC](https://kdXiaoyi.github.io/api/ms-office.htm?src=//kdx233.github.io/res/api_example/EXAMPLE.docx)/[PPT](https://kdXiaoyi.github.io/api/ms-office.htm?src=//kdx233.github.io/res/api_example/EXAMPLE.pptx)/[XLS](https://kdXiaoyi.github.io/api/ms-office.htm?src=//kdx233.github.io/res/api_example/EXAMPLE.xlsx)及其-X变种、模板变种、RTF文档
 
-https://view.officeapps.live.com/op/view.aspx?src=
+反正Microsoft Office 365 它都支持
