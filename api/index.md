@@ -89,6 +89,6 @@ ms-office.htm
 src= <Office Path>
 ```
 ### src
-目标文档的网络路径，目前支持：[DOC](https://kdXiaoyi.github.io/api/ms-office.htm?src=//kdx233.github.io/res/api_example/EXAMPLE.docx)/[PPT](https://kdXiaoyi.github.io/api/ms-office.htm?src=//kdx233.github.io/res/api_example/EXAMPLE.pptx)/[XLS](https://kdXiaoyi.github.io/api/ms-office.htm?src=//kdx233.github.io/res/api_example/EXAMPLE.xlsx)及其-X变种、模板变种、RTF文档
+目标文档的网络路径，目前支持：[DOC](https://kdXiaoyi.github.io/api/ms-office.htm?src=//kdx233.github.io/res/docs/api_example/EXAMPLE.docx)/[PPT](https://kdXiaoyi.github.io/api/ms-office.htm?src=//kdx233.github.io/res/docs/api_example/EXAMPLE.pptx)/[XLS](https://kdXiaoyi.github.io/api/ms-office.htm?src=//kdx233.github.io/res/docs/api_example/EXAMPLE.xlsx)及其-X变种、模板变种、RTF文档
 
 反正Microsoft Office 365 它都支持
