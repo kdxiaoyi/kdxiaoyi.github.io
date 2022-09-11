@@ -45,7 +45,7 @@ back= [1]
 
 
 ## [Bilibili Vedio Player](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/bili_vedio.htm)
-播放B站站内视频，请使用`iframe`调用。对于网页加参数修改iframe地址，请参阅[`frame.htm`](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/frame.htm)
+播放B站站内视频，请使用`iframe`调用。对于网页加参数修改iframe地址，请参阅[`ifr.htm`](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/ifr.htm)
 ```
 bili_vedio.htm
 ---
