@@ -1,7 +1,7 @@
 # kdXiaoyi.github.io API使用文档
 [在GITHUB上查看 >](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/index.md) [在GITHUB.IO站点上查看 >](https://kdxiaoyi.github.io/api/jump.htm?u=//kdxiaoyi.github.io/api)
 
-如果您遇到了一些错误，也可以[在这里](https://kdxiaoyi.github.io/api/jump.htm?u=//kdxiaoyi.github.io/api/index#.md)自助排障
+如果您遇到了一些错误，也可以[在这里](https://kdxiaoyi.github.io/api/jump.htm?u=//kdxiaoyi.github.io/api/index_h.md)自助排障
 # What's API on kdXiaoyi.github.io?
 为了完成亿些奇奇怪怪的操作，有时必须开发一些API来帮助个人网址建设。
 
