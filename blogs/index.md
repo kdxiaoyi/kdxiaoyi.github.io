@@ -4,6 +4,8 @@
 你可以：[搜索](/search.html)博客(Ctrl+F 或对于MacOS Command+F) / 查看博客
 
 _TIP: 键入`kdxiaoyi.github.io/blogs/[年份]/[BLOG序号]/`快速打开博客_
+
+**此BLOG INDEX及BLOGS适用于[kdXiaoyi.github.io的版权声明](https://kdxiaoyi.github.io/LICENSE)**
 ## 2022
 [#7 Windows 上常用的拓展插件](/blogs/2022/7)
 
