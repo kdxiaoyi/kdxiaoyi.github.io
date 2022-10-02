@@ -1,5 +1,5 @@
 # kdXiaoyi.github.io API使用文档 - 自助排障指南
-[在GITHUB上查看 >](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/index_h.md) [在GITHUB.IO站点上查看 >](https://kdxiaoyi.github.io/api/jump.htm?u=//kdxiaoyi.github.io/api/index_h.md)
+[在GITHUB上查看 >](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/index_h.md) [在GITHUB.IO站点上查看 >](https://kdxiaoyi.github.io/api/jump.htm?u=//kdxiaoyi.github.io/api/index_h)
 
 您或许可以参阅：[API使用指南](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/)
 
