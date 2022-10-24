@@ -1,6 +1,6 @@
 <html lang="zh-Hans">
 <head>
-    <title>解密小游戏</title>
+    <title>稻妻荒岛解密小游戏模拟 - kdXiaoyi.github.io</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta charset="UTF-8">
 
@@ -58,7 +58,8 @@
 
 </head>
 <body>
-<p style="width:300px; margin: 0 auto 8px;" >解密小游戏</p>
+    <a href="../"><h6>< 返回</h6></a>
+<p style="width:300px; margin: 0 auto 8px;" >稻妻荒岛解密小游戏模拟</p>
 <div id="jm-box">
     <div id="jm-item-a" class="jm-item">
         <div class="jm-item-name">A</div>
@@ -90,9 +91,7 @@
         <li>每个格子最多加到4，超过4自动变成1</li>
         <li>只能加不能减</li>
         <li>最终要所有的格子都变成和中间格子的数一样的值才算成功</li>
-        <li> </li>
         <a href="./help"><li> 攻略链接 </li></a>
-        <li> </li>
         <li>成功示例：<br><img src="./success.png" style="width:300px;"/></li>
         <li style="color:#ccc;font-size:12px;" >注：该解密是模拟原神稻妻荒海的解密游戏</li>
     </ol>
@@ -125,35 +124,37 @@
             value: 0,
             link: ['b', 'c'],
         },
-    }
+    };
 
 
     function setValue(item, value, linker) {
-        item.value = value
+        item.value = value;
         if (item.value > 4) {
             item.value = 1
-        }
-        item.dom.innerText = item.value
+        };
+        item.dom.innerText = item.value;
 
         if (linker) {
             item.link.forEach(key => {
                 setValue(values[key], values[key].value + 1)
             })
-        }
+        };
     }
 
     function reRandom() {
-        setValue(values.a, Math.ceil(Math.random() * 4))
-        setValue(values.b, Math.ceil(Math.random() * 4))
-        setValue(values.c, Math.ceil(Math.random() * 4))
-        setValue(values.d, Math.ceil(Math.random() * 4)) 
+        console.log("new event - random");
+        setValue(values.a, Math.ceil(Math.random() * 4));
+        setValue(values.b, Math.ceil(Math.random() * 4));
+        setValue(values.c, Math.ceil(Math.random() * 4));
+        setValue(values.d, Math.ceil(Math.random() * 4));
     }
     reRandom()
 
 
     function plusValue(item) {
-        setValue(item, item.value + 1, true)
+        setValue(item, item.value + 1, true);
         if(values.a.value === 1 && values.b.value === 1 && values.c.value === 1 && values.d.value === 1){
+            console.log("new event - win");
             setTimeout(function () {
                 alert("恭喜您解密成功！") 
             },1)
@@ -161,21 +162,25 @@
     }
 
     document.getElementById('jm-item-a').onclick = function () {
+        console.log("new event - click A");
         plusValue(values.a)
     }
 
 
     document.getElementById('jm-item-b').onclick = function () {
+        console.log("new event - click B");
         plusValue(values.b)
     }
 
 
     document.getElementById('jm-item-c').onclick = function () {
+        console.log("new event - click C");
         plusValue(values.c)
     }
 
 
     document.getElementById('jm-item-d').onclick = function () {
+        console.log("new event - click D");
         plusValue(values.d)
     }
 
