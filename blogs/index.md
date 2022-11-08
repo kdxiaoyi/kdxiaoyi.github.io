@@ -5,7 +5,7 @@
 
 _TIP: 键入`kdxiaoyi.github.io/blogs/[年份]/[BLOG序号]/`快速打开博客_
 
-**此BLOG INDEX及BLOGS适用于[kdXiaoyi.github.io的版权声明](https://kdxiaoyi.github.io/LICENSE)**
+**此BLOG INDEX及BLOGS适用于[kdXiaoyi.github.io的版权声明](https://kdxiaoyi.github.io/LICENSE_)**
 ## 2022
 [#8 Live2D 入侵网课](/blogs/2022/8)
 
