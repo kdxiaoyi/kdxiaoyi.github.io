@@ -3,7 +3,7 @@
 import os, re
 import random
 
-xx = "==主题=="
+xx = input('键入主题：')
 
 text = [ 
     "现在, 解决x的问题, 是非常非常重要的. 所以, ",
@@ -177,3 +177,4 @@ for x in xx:
             tmp += text[random.randint(0,len(text)-1)]
     tmp = tmp.replace("x",xx)
     print(tmp)
+    input ('')

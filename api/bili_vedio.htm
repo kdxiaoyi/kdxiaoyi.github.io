@@ -34,7 +34,7 @@
                 if (pair[0] == variable) { return pair[1]; }
             }
             return;
-        }
+        };
         var bili_url = "//player.bilibili.com/player.html?danmaku="+getQueryVariable("dm")+"&high_quality=1&aid="+getQueryVariable("av")+"&bvid="+getQueryVariable("bv")+"&page="+getQueryVariable("p");
         console.log(bili_url);
         document.getElementById("iframeId").src = bili_url;

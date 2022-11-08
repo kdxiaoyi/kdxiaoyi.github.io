@@ -21,16 +21,16 @@
             }
             function load() {
                 // 取参数并尝试打开文件
-                var url_src=getQueryString("src")
-                console.log ("src参数 = " + url_src)
-                var url_src_=encodeURIComponent(url_src)
-                console.log ("UrlEncode后src参数 = " + url_src_)
+                var url_src=getQueryString("src");
+                console.log ("src参数 = " + url_src);
+                var url_src_=encodeURIComponent(url_src);
+                console.log ("UrlEncode后src参数 = " + url_src_);
                 if (url_src != null){
                     var url_="https://view.officeapps.live.com/op/view.aspx?wdOrigin=BROWSELINK&src="+url_src_
                     document.getElementById("ifr").src = url_
                     console.log ("最终URL = "+url_)
-                }
-                return
+                };
+                return;
             }
         </script>
         <style>
@@ -56,7 +56,7 @@
 
         <!-- 页面逻辑部分 -->
         <script>
-        load()
+        load();
         </script>
     </body>
 </html>

@@ -13,18 +13,18 @@
         return unescape(r[2]);
       }
       return null;
-    }
+    };
     function back() {
       // 定义返回函数
       window.history.back(-1);
       return;
-    }
+    };
     function homo() {
       // HOMO特有的无孔不入（悲
       // 前往github.io主页
       window.location = "http://kdxiaoyi.github.io/";
       return;
-    }
+    };
     function goto() {
       // 前往目标页面
       if (getQueryString("goto") == "f") {
@@ -33,22 +33,22 @@
         window.location = document.getElementById("ifr").src;
       }
       return;
-    }
+    };
     function tip() {
       // 展现提示
       alert( "相关内容由以下第三方提供。kdXiaoyi.github.io不对其行为负责。\n\n" + document.getElementById("ifr").src );
-    }
+    };
     function url_box_copy() {
       // 复制网址
       url_box_refill(); //防止网址刷新不及时
-    }
+    };
     function url_box_refill() {
       // var iframeWindow = document.getElementById('ifr').contentWindow;
       // var currentHref = iframeWindow.document.location.href;
       var url = document.getElementById("ifr").contentWindow.location.href;
-      document.getElementById("urlb").value=currentHref
+      document.getElementById("urlb").value=currentHref;
       return;
-    }
+    };
   </script>
 </head>
 <body>
@@ -69,7 +69,7 @@
       //document.getElementById("goto").disabled = "true";
       document.getElementById("goto").type = "hidden";
       button_goto.type = "hidden";
-    }
+    };
     // 页面运行载入框架
     document.getElementById("ifr").src = getQueryString("url");
     // // 为URL地址框挂钩，点击时刷新URL
