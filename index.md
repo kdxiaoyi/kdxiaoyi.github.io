@@ -31,6 +31,6 @@
 
 | 关于此Github.io | ISSUES |
 |-|-|
-| [Github 仓库地址](//github.com/kdXiaoyi/kdxiaoyi.github.io) / [辅助性仓库地址](//github.com/kdX233/kdx233.github.io) | [提交主页反馈](//github.com/kdXiaoyi/kdxiaoyi.github.io/issues/new/choose) 或 [检索主页反馈](//github.com/kdXiaoyi/kdxiaoyi.github.io/issues?q=is%3Aissue) |
+| [Github 仓库地址](//github.com/kdXiaoyi/kdxiaoyi.github.io)<br>[辅助性仓库地址](//github.com/kdX233/kdx233.github.io) | [提交主页反馈](//github.com/kdXiaoyi/kdxiaoyi.github.io/issues/new/choose) 或 [检索主页反馈](//github.com/kdXiaoyi/kdxiaoyi.github.io/issues?q=is%3Aissue)<br>验收标准：[Edge](https://www.microsoft.com/edge) on Windows 最新版 |
 
-[LICENSE](//kdxiaoyi.github.io/license_)
+[LICENSE](//kdxiaoyi.github.io/LICENSE_)
