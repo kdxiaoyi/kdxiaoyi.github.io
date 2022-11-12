@@ -10,16 +10,20 @@
        return null;
        }
     </script>
-    <script>
-        if (getQueryString('help')=1) {
-            window.location = "https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/_help.md"
-        } else {
-            window.location = "https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/_index.md"
-        }
-    </script>
 </head>
 <body>
     <h1>正在跳转，请稍后……</h1>
-    <input id="url" name="url" value="#null"></input>
+    <input id="url" name="url" value="to -> #api_help"></input>
     <a href="https://kdxiaoyi.github.io/"><h6>kdXiaoyi.github.io</h6></a>
+    <script>
+        var IsGoingToHelp = getQueryString ("help");
+        console.log ("get query [help] = ["+IsGoingToHelp+"]");
+        if (IsGoingToHelp != null) {
+            console.log ("goto sub.help");
+            window.location = "https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/_help.md";
+        } else {
+            console.log ("goto sub.index");
+            window.location = "https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/_index.md";
+        };
+    </script>
 </body>
