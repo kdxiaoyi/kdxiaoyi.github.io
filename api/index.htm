@@ -1,0 +1,25 @@
+<head readme="用于跳转API Helps">
+    <title>正在跳转… | kdXiaoyi.github.io</title>
+    <script type="text/javascript">
+      function getQueryString(name) {
+       let reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)", "i");
+       let r = window.location.search.substr(1).match(reg);
+       if (r != null) {
+         return unescape(r[2]);
+        };
+       return null;
+       }
+    </script>
+    <script>
+        if (getQueryString('help')=1) {
+            window.location = "https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/_help.md"
+        } else {
+            window.location = "https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/_index.md"
+        }
+    </script>
+</head>
+<body>
+    <h1>正在跳转，请稍后……</h1>
+    <input id="url" name="url" value="#null"></input>
+    <a href="https://kdxiaoyi.github.io/"><h6>kdXiaoyi.github.io</h6></a>
+</body>
