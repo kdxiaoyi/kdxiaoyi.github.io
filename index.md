@@ -27,10 +27,9 @@
 
 图床主要来自[路过图床](//imgse.com)
 
-你可以在[这里](/api/)查询此Github.io的API文档
-
 | 关于此Github.io | ISSUES |
 |-|-|
 | [Github 仓库地址](//github.com/kdXiaoyi/kdxiaoyi.github.io)<br>[辅助性仓库地址](//github.com/kdX233/kdx233.github.io) | [提交主页反馈](//github.com/kdXiaoyi/kdxiaoyi.github.io/issues/new/choose) 或 [检索主页反馈](//github.com/kdXiaoyi/kdxiaoyi.github.io/issues?q=is%3Aissue)<br>验收标准：[Edge](https://www.microsoft.com/edge) on Windows 最新版 |
+| 此仓库所用的部分API/CSS | [API帮助文档](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/_index.md)<br>[CSS列表](https://github.com/kdX233/kdx233.github.io/blob/main/res/css/_index.md) |
 
 [LICENSE](//kdxiaoyi.github.io/LICENSE_)
