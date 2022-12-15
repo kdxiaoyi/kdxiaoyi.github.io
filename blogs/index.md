@@ -7,6 +7,7 @@ _TIP: 键入`kdxiaoyi.github.io/blogs/[年份]/[BLOG序号]/`快速打开博客_
 
 **此BLOG INDEX及BLOGS适用于[kdXiaoyi.github.io的版权声明](https://kdxiaoyi.github.io/LICENSE_)**
 ## 2022
+[#9 大改Github Pages！（换Github Pages背景并美化）](/blogs/2022/9)<br>
 [#大事 迷你迷你VS我的世界 落下帷幕](https://kdx233.github.io/res/docs/Miniplay_lost_by_Netease/)<br>
 [#大事 中华人民共和国前任主席江泽民不幸去世](https://baijiahao.baidu.com/s?id=1751005478603095729)<br>
 [#8 Live2D 入侵网课](/blogs/2022/8)<br>
