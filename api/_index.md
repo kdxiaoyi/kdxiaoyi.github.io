@@ -41,6 +41,23 @@ back= [1]
 
 这适用于：*e.g.* 当不识别MS-STORE链接时用[MS-STORE链接调用MSStore](http://kdxiaoyi.github.io/api/jump.htm?back=1&u=ms-windows-store://pdp/?ProductId=9WZDNCRFHVN5)
 
+## [setCopiedBroad](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/copy.htm)
+设置剪切板为一串文本
+```
+copy.htm
+---
+str= <value>
+nback= [0|1]
+tip= <value>
+```
+### str
+要复制的文本
+### nback
+是否返回。
+**为`1`时不返回**
+### tip
+提示信息。
+默认`Copied!`，为`non`时不提示
 
 ## [Bilibili Vedio Player](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/bili_vedio.htm)
 播放B站站内视频，请使用`iframe`调用。对于网页加参数修改iframe地址，请参阅[`ifr.htm`](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/ifr.htm)
