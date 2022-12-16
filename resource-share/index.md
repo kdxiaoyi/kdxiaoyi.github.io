@@ -10,3 +10,4 @@ Ctrl+F(或Command+F对于MacOS) 以进行[搜](/search.html)索
 * [Tom and Jerry 480P 带英文字幕](/resource-share/sharing/tom-and-jerry)
 * [压缩包密码字典](https://kdx233.github.io/Passwords/)
 * [数学工具箱](/blogs/2022/5)
+* [间隔断网工具](./sharing/stop-internet)
