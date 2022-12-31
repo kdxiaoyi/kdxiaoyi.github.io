@@ -8,7 +8,7 @@
 [Github Discussions](//github.com/kdXiaoyi/kdxiaoyi.github.io/discussions)
 
 # Happy for Chinese new year!
-[![银锌钠氟镓铪镁（迎新纳福家和美）,铼𬭳锝金砷钪钛（来喜得金身康泰）；氟氯双醛（福禄双全）](https://s1.ax1x.com/2022/12/31/pS9DlAx.png)](https://imgse.com/i/pS9DlAx)
+[![银锌钠氟镓铪镁（迎新纳福家和美）,铼𬭳锝金砷钪钛（来喜得金身康泰）；氟氯双醛（福禄双全）](https://s1.ax1x.com/2022/12/31/pS9sKFx.png)](https://imgse.com/i/pS9sKFx)
 
 # 好van的
 * [![csbb.png](https://s1.ax1x.com/2022/08/21/vyApIs.png) Change sys by batch](/change-sys-by-batch)
@@ -32,7 +32,7 @@
 
 | 关于此Github.io | ISSUES |
 |-|-|
-| [Github 仓库地址](//github.com/kdXiaoyi/kdxiaoyi.github.io)<br>[辅助性仓库地址](//github.com/kdX233/kdx233.github.io) | [提交主页反馈](//github.com/kdXiaoyi/kdxiaoyi.github.io/issues/new/choose) 或 [检索主页反馈](//github.com/kdXiaoyi/kdxiaoyi.github.io/issues?q=is%3Aissue)<br>验收标准：[Edge](https://www.microsoft.com/edge) on Windows 最新版 |
-| 此仓库所用的部分API/CSS | [API帮助文档](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/_index.md)<br>[CSS列表](https://github.com/kdX233/kdx233.github.io/blob/main/res/css/_index.md) |
+| [仓库地址](//github.com/kdXiaoyi/kdxiaoyi.github.io)<br>[辅助性站点仓库地址](//github.com/kdX233/kdx233.github.io) | [提交主页反馈](//github.com/kdXiaoyi/kdxiaoyi.github.io/issues/new/choose) 或 [检索主页反馈](//github.com/kdXiaoyi/kdxiaoyi.github.io/issues?q=is%3Aissue)<br>验收标准：[Edge](https://www.microsoft.com/edge) on Windows 最新版 |
+| 此仓库所用的部分API/CSS | [API帮助文档](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/_index.md)<br>[CSS列表](https://github.com/kdX233/kdx233.github.io/blob/master/res/css/_index.md) |
 
 [LICENSE](//kdxiaoyi.github.io/LICENSE_)
