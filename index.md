@@ -13,7 +13,7 @@
 # 好van的
 * [![csbb.png](https://s1.ax1x.com/2022/08/21/vyApIs.png) Change sys by batch](/change-sys-by-batch)
 * [各种资源收集与分享](/resource-share)
-* [废话生成器 魔改增强](/WebApps/BullshitGenerator/spawner.html)
+* [废话生成器 魔改增强](/Project/BullshitGenerator/spawner.html)
 
 # 社交媒体
 欢迎关注！
