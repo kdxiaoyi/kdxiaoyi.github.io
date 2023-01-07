@@ -8,7 +8,8 @@
 [Github Discussions](//github.com/kdXiaoyi/kdxiaoyi.github.io/discussions)
 
 # Happy for Chinese new year!
-[![银锌钠氟镓铪镁（迎新纳福家和美）,铼𬭳锝金砷钪钛（来喜得金身康泰）；氟氯双醛（福禄双全）](https://s1.ax1x.com/2022/12/31/pS9sKFx.png)](https://imgse.com/i/pS9sKFx)
+<center><img src="https://s1.ax1x.com/2023/01/07/pSE5jII.jpg"></center>
+<center><img src="https://s1.ax1x.com/2022/12/31/pS9sKFx.png"></center>
 
 # 好van的
 * [![csbb.png](https://s1.ax1x.com/2022/08/21/vyApIs.png) Change sys by batch](/change-sys-by-batch)
