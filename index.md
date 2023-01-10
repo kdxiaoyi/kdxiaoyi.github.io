@@ -1,13 +1,18 @@
-# kdXiaoyi
-一个普通的MC正版玩家/BATCH脚本发烧友/《原？》生草玩家
-
+# 公告
 最近刚买全套《[非](//b23.tv/BV1Tb411k7iE)[人](//v.qq.com/x/cover/mzc00200ygmoqes/s0043xi5c9a.html)哉》，没钱氪大月卡了
 
 [个人博客](//kdxiaoyi.github.io/blogs/)
 
 [Github Discussions](//github.com/kdXiaoyi/kdxiaoyi.github.io/discussions)
 
-# Happy for Chinese new year!
+## 怀念Windows 8！
+[阅读全文 >](./blogs/2022/10)
+```text
+...
+```
+Blogs#10 细数Windows 8的罪与过 ——怀念Windows 8
+
+## Happy for Chinese new year!
 <center><img src="https://s1.ax1x.com/2023/01/07/pSE5jII.jpg"></center>
 <center><img src="https://s1.ax1x.com/2022/12/31/pS9sKFx.png"></center>
 
