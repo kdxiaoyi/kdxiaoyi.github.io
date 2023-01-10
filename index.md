@@ -1,3 +1,7 @@
+---
+title: "kdXiaoyi"
+---
+
 # 公告
 最近刚买全套《[非](//b23.tv/BV1Tb411k7iE)[人](//v.qq.com/x/cover/mzc00200ygmoqes/s0043xi5c9a.html)哉》，没钱氪大月卡了
 
@@ -5,12 +9,18 @@
 
 [Github Discussions](//github.com/kdXiaoyi/kdxiaoyi.github.io/discussions)
 
-## 怀念Windows 8！
-[阅读全文 >](./blogs/2022/10)
+## 怀念Windows 8.1！
+[阅读全文 >](./blogs/2023/10)
 ```text
-...
+Windows 8取消了经典主题以及Windows 7/Vista的Aero效果，加入了Modern UI，和Windows传统界面并存。同时Windows徽标大幅简化，以反映新的Modern UI风格，前身旗形标志转化成梯形。
+微软虽然没有预见到移动设备未来的市场，但是却在审美上开始了扁平化风格。
+
+但是，最终成品却……
+2012年10月26日发布的Windows 8：开始菜单凭空消失（移到Charm 边栏去了），强制全屏的Metro应用程序，不照顾键鼠用户的操作逻辑……
+Windows 8失败了。
+2016年1月12日，微软正式停止为Windows 8提供技术支持。
 ```
-Blogs#10 细数Windows 8的罪与过 ——怀念Windows 8
+来源：[Blogs#10 细数Windows 7&8的罪与过 ——怀念Windows 7&8](./blogs/2023/10)
 
 ## Happy for Chinese new year!
 <center><img src="https://s1.ax1x.com/2023/01/07/pSE5jII.jpg"></center>

@@ -1,14 +1,15 @@
 # kdXiaoyi's Blog
-这里是kdXiaoyi白嫖github建立的一个个人博客
+这里是kdXiaoyi白嫖github建立的一个个人博客<br>
+你可以：[搜索](/search.html)博客(Ctrl+F 或对于MacOS Command+F) / 查看博客<br>
+_TIP: 键入`kdxiaoyi.github.io/blogs/[年份]/[BLOG序号]/`快速打开博客_<br>
+**此BLOG INDEX及BLOGS适用于[kdXiaoyi.github.io的版权声明](https://kdxiaoyi.github.io/LICENSE_)**<br>
+只有标注数字的才会在站内打开
+## 2023
+[#10 细数Windows 7&8的罪与过 ——怀念Windows 7&8](/blogs/2023/10)<br>
 
-你可以：[搜索](/search.html)博客(Ctrl+F 或对于MacOS Command+F) / 查看博客
-
-_TIP: 键入`kdxiaoyi.github.io/blogs/[年份]/[BLOG序号]/`快速打开博客_
-
-**此BLOG INDEX及BLOGS适用于[kdXiaoyi.github.io的版权声明](https://kdxiaoyi.github.io/LICENSE_)**
 ## 2022
 [#9 大改Github Pages！（换Github Pages背景并美化）](/blogs/2022/9)<br>
-[#大事 迷你迷你VS我的世界 落下帷幕](https://kdx233.github.io/res/docs/Miniplay_lost_by_Netease/)<br>
+<!-- [#大事 迷你迷你VS我的世界 落下帷幕](https://kdx233.github.io/res/docs/Miniplay_lost/)<br> -->
 [#大事 中华人民共和国前任主席江泽民不幸去世](https://baijiahao.baidu.com/s?id=1751005478603095729)<br>
 [#8 Live2D 入侵网课](/blogs/2022/8)<br>
 [#7 Windows 上常用的拓展插件](/blogs/2022/7)<br>
