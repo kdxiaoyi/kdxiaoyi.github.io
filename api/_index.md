@@ -40,8 +40,17 @@ back= [1]
 如果为`1`，将会跳转后进行**一次**返回
 
 这适用于：*e.g.* 当不识别MS-STORE链接时用[MS-STORE链接调用MSStore](http://kdxiaoyi.github.io/api/jump.htm?back=1&u=ms-windows-store://pdp/?ProductId=9WZDNCRFHVN5)
-
-## [setCopiedBroad](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/copy.htm)
+## [alert](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/.htm)
+创建一个提示框，并返回至上一页面。<br>
+你问我这不就一句alert()的事吗？`github.io`的`markdown`解释器不接受`javascpirt:`链接。
+```
+alert.htm
+---
+text = <VALUE>
+```
+### text
+要提示的文本。
+<!-- ## [setCopiedBroad](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/copy.htm)
 设置剪切板为一串文本
 ```
 copy.htm
@@ -57,7 +66,7 @@ tip= <value>
 **为`1`时不返回**
 ### tip
 提示信息。
-默认`Copied!`，为`non`时不提示
+默认`Copied!`，为`non`时不提示 -->
 
 ## [Bilibili Vedio Player](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/bili_vedio.htm)
 播放B站站内视频，请使用`iframe`调用。对于网页加参数修改iframe地址，请参阅[`ifr.htm`](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/ifr.htm)
