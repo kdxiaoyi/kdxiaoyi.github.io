@@ -1,5 +1,5 @@
 <head readme="">
-    <title>正在跳转… | kdXiaoyi.github.io</title>
+    <title>javascript:alert() - API on kdXiaoyi.github.io</title>
     <script type="text/javascript">
       function getQueryString(name) {
        let reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)", "i");
@@ -11,8 +11,13 @@
        }
     </script>
     <script>
-        alert(getQueryString('text'));
-        window.history.back();
+      if (getQueryString('encoded')==1) {
+        alert(decodeURI(decodeURI(getQueryString('text'))));
+        window.history.back()
+      } else {
+        console.log('First Visviting.Next URL is '+encodeURI(encodeURI(window.location))+'&encoded=1')
+        window.location=encodeURI(encodeURI(window.location))+'&encoded=1';
+      }
     </script>
 </head>
 <body>
