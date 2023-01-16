@@ -52,3 +52,7 @@ Windows 8失败了。
 | 此仓库所用的部分API/CSS | [API帮助文档](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/_index.md)<br>[CSS列表](https://github.com/kdX233/kdx233.github.io/blob/master/res/css/_index.md) |
 
 [LICENSE](//kdxiaoyi.github.io/LICENSE_)
+
+---
+<center><strong>kdXiaoyi</strong></center>
+<center>坑爹的夏天难道不很令人O-Yi吗</center>
