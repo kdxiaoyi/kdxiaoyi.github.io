@@ -34,10 +34,13 @@ title: "kdXiaoyi"
 
 | 关于此Github.io | ISSUES |
 |-|-|
-| [仓库地址](//github.com/kdXiaoyi/kdxiaoyi.github.io)<br>[辅助性站点仓库地址](//github.com/kdX233/kdx233.github.io) | [提交主页反馈](//github.com/kdXiaoyi/kdxiaoyi.github.io/issues/new/choose) 或 [检索主页反馈](//github.com/kdXiaoyi/kdxiaoyi.github.io/issues?q=is%3Aissue)<br>验收标准：[Edge](https://www.microsoft.com/edge) on Windows 最新版 |
-| 此仓库所用的部分API/CSS | [API帮助文档](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/_index.md)<br>[CSS列表](https://github.com/kdX233/kdx233.github.io/blob/master/res/css/_index.md) |
+| [仓库地址](//github.com/kdXiaoyi/kdxiaoyi.github.io)<br>[辅助站点仓库地址](//github.com/kdX233/kdx233.github.io) | [提交主页反馈](//github.com/kdXiaoyi/kdxiaoyi.github.io/issues/new/choose) 或 [检索主页反馈](//github.com/kdXiaoyi/kdxiaoyi.github.io/issues?q=is%3Aissue)<br>验收标准：[Edge](https://www.microsoft.com/edge) on Windows 最新版 |
+| 此仓库所用的部分自建API/CSS | [API帮助文档](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/_index.md)<br>[CSS列表](https://github.com/kdX233/kdx233.github.io/blob/master/res/css/_index.md) |
+|版权声明|[LICENSE](//kdxiaoyi.github.io/LICENSE_)|
 
-[LICENSE](//kdxiaoyi.github.io/LICENSE_)
+背景图来源：[`P站ID 101438976`](https://pixivel.moe/illust/101438976)<br>
+作者指路：[`@Rafa`](https://pixivel.moe/illustrator/3970196)<br>
+*因为担心有人上不了P站，这里用的镜像站*
 
 ---
 <center><strong>kdXiaoyi</strong></center>
