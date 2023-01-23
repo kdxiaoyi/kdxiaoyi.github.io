@@ -5,3 +5,4 @@
 更新日志放在网盘内了。
 
 ## [下载链接](https://pan.huang1111.cn/s/Lq6KH6)
+若[签名校验](https://pan.huang1111.cn/s/KBDVCY)（没钱用时间戳服务）不通过，请重新下载。
