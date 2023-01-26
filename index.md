@@ -4,7 +4,7 @@ title: "kdXiaoyi"
 # <center>公告</center>
 最近刚买全套《[非](//b23.tv/BV1Tb411k7iE)[人](//v.qq.com/x/cover/mzc00200ygmoqes/s0043xi5c9a.html)哉》，没钱氪大月卡了
 
-[个人博客](/blogs/)
+[个人博客](/blogs/index)
 
 [Github Discussions](//github.com/kdXiaoyi/kdxiaoyi.github.io/discussions)
 
