@@ -2,7 +2,7 @@
 这里是kdXiaoyi白嫖github建立的一个个人博客<br>
 你可以：[搜索](/search.html)博客(Ctrl+F 或对于MacOS Command+F) / 查看博客<br>
 _TIP: 键入`kdxiaoyi.github.io/blogs/[年份]/[BLOG序号]/`快速打开博客_<br>
-**此BLOG INDEX及BLOGS适用于[kdXiaoyi.github.io的版权声明](https://kdxiaoyi.github.io/LICENSE_)**<br>
+**此BLOG INDEX及BLOGS适用于[kdXiaoyi.github.io的版权声明](/LICENSE_)**<br>
 只有标注数字的才会在站内打开
 ## 2023
 [#12 Github Pages使用其它免费域名](/blogs/2023/12)<br>
