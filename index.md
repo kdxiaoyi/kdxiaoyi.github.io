@@ -2,10 +2,10 @@
 title: "kdXiaoyi"
 ---
 # <center>公告</center>
-最近刚买全套《[非](//b23.tv/BV1Tb411k7iE)[人](//v.qq.com/x/cover/mzc00200ygmoqes/s0043xi5c9a.html)哉》，没钱氪大月卡了
+发现个神奇定律：玩多了DoMCer就只会玩Hypixel了、玩多了Hypixel就只会玩DoMCer了<br>
+~~——指昨天DoMCer乱杀，今天被连飞……昨天Hypixel被rush直到alt+F4，今天每局都有送床和人头的……~~
 
-[个人博客](/blogs/index)
-
+[个人博客](/blogs/index)<br>
 [Github Discussions](//github.com/kdXiaoyi/kdxiaoyi.github.io/discussions)
 
 ## Happy for Chinese new year!
