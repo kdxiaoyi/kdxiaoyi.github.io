@@ -1,8 +1,8 @@
 # 间隔断网工具
 ## 简介
 没啥。<br>
-对于纯电脑萌新有概率导致网络设备被禁用且不会恢复     用前请悉知！！！勿喷！！！我可以指导你启用网络设备
-<div style="text-align:center;height:100%"><iframe src="https://kdxiaoyi.github.io/api/bili_vedio.htm?bv=BV16t4y1F7xF" width="100%" height="99%">233</iframe></div>
+对于纯电脑萌新有概率导致网络设备被禁用且不会恢复     用前请悉知！！！勿喷！！！自行[百度（别杠没网百度）启用网络设备教程](https://www.baidu.com/s?wd=%E5%90%AF%E7%94%A8%E7%BD%91%E7%BB%9C%E9%80%82%E9%85%8D%E5%99%A8)
+<div style="text-align:center;height:100%"><iframe src="https://kdxiaoyi.github.io/api/third-party/bili_video.htm?bv=BV16t4y1F7xF" width="100%" height="99%">233</iframe></div>
 
 ## 特性
 每次网络变更都会切换背景色提醒ESC<br>
@@ -21,7 +21,7 @@
 对于Windows 10+ ，可以使用下面的链接打开这个设置<br>
 [win10](https://kdxiaoyi.github.io/api/jump.htm?u=ms-settings:network-status) [win11](https://kdxiaoyi.github.io/api/jump.htm?u=ms-settings:network-advancedsettings&back=1)<br>
 ### 你这原神怎么没有标题栏？？？
-Watt Toolkit可以去掉标题栏
+[Watt Toolkit](https://steampp.net/)可以去掉标题栏
 ### 我为啥不用热点？
 热点有一些限制：
 - 需要WiFi或数据线  还要足够流量或WiFi

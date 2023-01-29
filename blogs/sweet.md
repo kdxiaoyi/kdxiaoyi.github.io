@@ -1,4 +1,5 @@
 # 作者精神已失常
+<small>最后更新：2023-01-08</small><br>
 
 **“旅行者…当你重新踏上旅途之后，一定要记得旅途本身的意义。”**<br>
 *——温迪，于蒙德主线「巨龙与自由之歌」结尾对旅行者所述*<br>
@@ -85,7 +86,7 @@
 
 **“那一刀，未必无法企及。”**<br>
 “总会有地上的生灵，敢于直面雷霆的威光。”<br>
-*——枫原万叶的友人，[剧情PV「追逐霆光的孤旅」](https://www.bilibili.com/video/BV15K4y1M7Xn?t=28.9)*<br>
+*——枫原万叶的友人，[剧情PV「追逐霆光的孤旅」↗](https://www.bilibili.com/video/BV15K4y1M7Xn?t=28.9)*<br>
 
 **“直到今天，你们仍是我的荣耀。”**<br>
 *——拾枝者 · 戴因斯雷布，旅人章「回响渊底的安魂曲」中对哈夫丹所说*<br>
@@ -95,7 +96,7 @@
 
 **“我叫浮舍。——”**<br>
 “意为浮生一刹，万般皆舍。”<br>
-*——浮舍，间章 · 危途疑踪[过场CG「惟余旧忆」](https://www.bilibili.com/video/BV1mW4y1C7eD?t=215.7)*<br>
+*——浮舍，间章 · 危途疑踪[过场CG「惟余旧忆」↗](https://www.bilibili.com/video/BV1mW4y1C7eD?t=215.7)*<br>
 
 **“抱歉，妈妈，我找到了很多您家乡的绯樱绣球，可惜没法送回您身边了。”**<br>
 *——神秘人的留言，北斗邀约第一幕「南十字闪耀时」*<br>
@@ -170,5 +171,5 @@
 
 | 项目 | 子项目 |
 |-|-|
-|收集|[kdXiaoyi](kdx233.github.io)|
-|信息来源|[@原神](https://space.bilibili.com/401742377)<br>[原神WIKI](https://wiki.biligame.com/ys/)<br>[米游社观测枢](https://bbs.mihoyo.com/ys/strategy/?bbs_presentation_style=no_header)|
+|收集|[kdXiaoyi](https://kdx233.github.io)|
+|信息来源|[@原神 ↗](https://space.bilibili.com/401742377)<br>[原神WIKI ↗](https://wiki.biligame.com/ys/)<br>[米游社观测枢 ↗](https://bbs.mihoyo.com/ys/strategy/?bbs_presentation_style=no_header)|
