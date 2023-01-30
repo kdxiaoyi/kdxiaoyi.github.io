@@ -80,7 +80,7 @@ goto= [f]
 如果为`f`，将不允许用户前往此URL
 
 ### [Bilibili Video Player](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/third-party/bili_video.htm)
-播放B站站内视频，请使用`iframe`调用。对于网页加参数修改iframe地址，请参阅[`ifr.htm`](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/third-party/ifr.htm)
+播放B站站内视频，请使用`iframe`调用。对于网页加参数修改iframe地址，请参阅[`ifr.htm`](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/third-party/ifr.htm)<br>会利用参数尝试直接加载720P分辨率（通常为480P）
 ```
 third-party/bili_vedio.htm
 ---
