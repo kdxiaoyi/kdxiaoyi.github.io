@@ -1,6 +1,6 @@
 # 资源分享
 这里有各种好van的资源哦。<br>
-[加密相关策略](/resource-share/sharing/boom-system#%E5%85%B3%E4%BA%8E%E5%8A%A0%E5%AF%86%E7%AD%96%E7%95%A5)
+[加密相关策略](/resource-share/rule)
 
 Ctrl+F(或Command+F对于MacOS) 以进行[搜](/search.html)索
 
