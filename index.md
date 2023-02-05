@@ -27,7 +27,7 @@ title: "kdXiaoyi"
 * [个人博客](/blogs/index)
 
 # <center>赞助</center>
-敬请期待。
+<a href="/sponsor"><center>支持我请点击此处！</center></a>
 
 # <center>关于主页</center>
 *白嫖github就是香*
@@ -47,3 +47,7 @@ title: "kdXiaoyi"
 ---
 <center><strong>kdXiaoyi</strong></center>
 <center>坑爹的夏天难道不很令人O-Yi吗</center>
+
+---
+<center>友情链接</center>
+暂无
