@@ -4,6 +4,7 @@ _TIP: 键入`kdxiaoyi.github.io/blogs/[年份]/[BLOG序号]/`快速打开博客_
 **此BLOG INDEX及BLOGS适用于[kdXiaoyi.github.io的版权声明](/LICENSE_)**<br>
 
 ## 2023
+[#13 appx安装器平替  WinQQ官方简洁版使用技巧](/blogs/2023/13)<br>
 [#12 Github Pages使用其它免费域名](/blogs/2023/12)<br>
 [#11 Edge真的在明文存储密码吗？](/blogs/2023/11)<br>
 [#10 细数Windows 7&8的罪与过 ——怀念Windows 7&8](/blogs/2023/10)<br>
