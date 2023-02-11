@@ -1,0 +1,8 @@
+# robots.txt
+User-agent: *
+Disallow: /.github/
+Disallow: /api/
+Disallow: /assets/
+Allow: /api/_index
+Allow: /api/_help
+Sitemap: sitemap.xml
