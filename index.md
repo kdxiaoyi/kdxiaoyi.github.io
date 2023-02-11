@@ -36,7 +36,7 @@ title: "kdXiaoyi"
 
 | 关于此Github.io | ISSUES |
 |-|-|
-| [仓库地址](//github.com/kdXiaoyi/kdxiaoyi.github.io)<br>[辅助站点仓库地址](//github.com/kdX233/kdx233.github.io)<br>真要说它两啥关系的话……一个主要放apis和博客，一个放资源 | [提交主页反馈](//github.com/kdXiaoyi/kdxiaoyi.github.io/issues/new/choose) 或 [检索主页反馈](//github.com/kdXiaoyi/kdxiaoyi.github.io/issues?q=is%3Aissue)<br>验收标准：Windows [Edge](https://www.microsoft.com/edge)<br>[站长统计](/Traffic_statistics)|
+| [仓库地址](//github.com/kdXiaoyi/kdxiaoyi.github.io)<br>[辅助站点仓库地址](//github.com/kdX233/kdx233.github.io)<br>真要说它两啥关系的话……一个主要放apis和博客，一个放资源 | [提交主页反馈](//github.com/kdXiaoyi/kdxiaoyi.github.io/issues/new/choose) 或 [检索主页反馈](//github.com/kdXiaoyi/kdxiaoyi.github.io/issues?q=is%3Aissue)<br>验收标准：Windows [Edge](https://www.microsoft.com/edge)|
 | 此仓库所用的部分自建API/CSS | [API帮助文档](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/_index.md)<br>[CSS列表](https://github.com/kdX233/kdx233.github.io/blob/master/res/css/_index.md) |
 |版权声明|[LICENSE](//kdxiaoyi.github.io/LICENSE_)|
 
