@@ -1,8 +1,10 @@
 <!doctype html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Bilibili Vedio Player - kdXiaoyi.github.io</title>
     <script>
@@ -21,6 +23,7 @@
         }
     </style>
 </head>
+
 <body style="height: 100%">
     <div style="text-align:center; height: 99%">
         <iframe id="iframeId" frameborder=0 scrolling=auto src=></iframe>
@@ -35,10 +38,11 @@
             }
             return;
         };
-        var bili_url = "//player.bilibili.com/player.html?danmaku="+getQueryVariable("dm")+"&high_quality=1&aid="+getQueryVariable("av")+"&bvid="+getQueryVariable("bv")+"&page="+getQueryVariable("p");
+        var bili_url = "//player.bilibili.com/player.html?danmaku=" + getQueryVariable("dm") + "&high_quality=1&aid=" + getQueryVariable("av") + "&bvid=" + getQueryVariable("bv") + "&page=" + getQueryVariable("p");
         console.log(bili_url);
         document.getElementById("iframeId").src = bili_url;
     </script>
 </body>
+
 </html>
 <!--<iframe src="//player.bilibili.com/player.html?aid=386414259&bvid=BV1Ad4y1U7Ad&cid=787663849&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
