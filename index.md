@@ -5,10 +5,11 @@ title: "kdXiaoyi"
 发现个神奇定律：玩多了DoMCer就只会玩Hypixel了、玩多了Hypixel就只会玩DoMCer了<br>
 ~~——指昨天DoMCer乱杀，今天被连飞……昨天Hypixel被rush直到alt+F4，今天每局都有送床和人头的……~~
 
-## 已接入搜索引擎
-已接入Bing搜索、已提交百度收录请求<br>
-[检索此站点](/search.html)<br>
+## 网盘迁移公告
+新资源可能会使用[阿里云盘](https://www.aliyundrive.com/)，**旧资源不迁移，仍在原网盘更新**
 
+---
+[检索此站点](/search.html)<br>
 [个人博客](/blogs/index)<br>
 [Github Discussions](//github.com/kdXiaoyi/kdxiaoyi.github.io/discussions)
 
