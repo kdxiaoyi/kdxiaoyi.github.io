@@ -1,2 +1,2 @@
 # 0# Your Title
-<small>最后更新：20??-??-??</small><br>
+<small><a href="../">←返回</a> | 最后更新：20??-??-??</small><br>

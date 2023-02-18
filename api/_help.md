@@ -1,5 +1,5 @@
 # kdXiaoyi.github.io API使用文档 - 自助排障指南
-<small>最后更新：2022-??-??</small><br>
+<small><a href="/index">←返回</a> | 最后更新：2022-??-??</small><br>
 
 您或许可以参阅：[API使用指南](https://kdxiaoyi.github.io/api/index.htm)
 

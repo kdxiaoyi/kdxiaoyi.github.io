@@ -1,4 +1,6 @@
 # 资源分享
+[返回](/index)
+
 这里有各种好van的资源哦。<br>
 [加密相关策略](/resource-share/rule)
 
