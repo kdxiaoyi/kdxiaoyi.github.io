@@ -1,7 +1,7 @@
 ---
 title: "看完流浪地球2，我的看法……"
 ---
-<small><a href="../">←返回</a> | 最后更新：2023-02-18 | 在<a href="https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/blogs/2023/15-The.Wandering.Earth.md">Github上查看</a></small><br>
+<small><a href="../">←返回</a> | 最后更新：2023-02-18 | 在<a href="https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/blogs/2023/15-The.Wandering.Earth.md">Github</a>或<a href="https://www.bilibili.com/read/cv21899082">Bilibili</a>上查看</small>
 
 # 一些观点
 <center><big>轻微剧透警告</big></center><br>
