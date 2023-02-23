@@ -3,6 +3,9 @@
 _TIP: 键入`kdxiaoyi.github.io/blogs/[年份]/[BLOG序号]/`快速打开博客_<br>
 **此BLOG INDEX及BLOGS适用于[kdXiaoyi.github.io的版权声明](/LICENSE_)**<br>
 
+创建：文档被创建的日期<br>
+最后更新：文档**内容**最后被更新时间
+
 ## 2023
 [15# 看完流浪地球2，我的看法……](/blogs/2023/15-The.Wandering.Earth)<br>
 [14# BDS 1.19.60 配置文件汉化，含`server-authoritative-movement`](/blogs/2023/14)<br>
