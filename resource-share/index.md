@@ -12,6 +12,7 @@ Ctrl+F(或Command+F对于MacOS) 以进行[搜](/search.html)索
 * [各种直播源](./sharing/live-video)
 * [Tom and Jerry 480P 带英文字幕](/resource-share/sharing/tom-and-jerry)
 * [间隔断网工具](./sharing/stop-internet)
+* [Get-AppxPackage 软件包安装程序の平替](/Project/Get-AppxPackage.exe/)
 * [压缩包密码字典](https://kdx233.github.io/Passwords/)
 * [WebViewer](/Project/WebViewer/)
 
