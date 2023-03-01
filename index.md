@@ -14,9 +14,10 @@ title: "kdXiaoyi"
 [Github Discussions](//github.com/kdXiaoyi/kdxiaoyi.github.io/discussions)
 
 # <center>好van的</center>
-* [![csbb.png](https://s1.ax1x.com/2022/08/21/vyApIs.png) Change sys by batch](/change-sys-by-batch)
+* [<img width=16px height=16px alt="CSBB" src="https://s1.ax1x.com/2022/08/21/vyApIs.png"></img> Change sys by batch](/change-sys-by-batch)
 * [各种资源收集与分享](/resource-share)
 * [废话生成器 魔改增强](/Project/BullshitGenerator/spawner.html)
+* ***[更多…](/Project/)***
 
 但是，这个很穷的人买不起证书，于是只能[自签](https://pan.huang1111.cn/s/KBDVCY)……
 

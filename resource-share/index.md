@@ -8,12 +8,9 @@ Ctrl+F(或Command+F对于MacOS) 以进行[搜](/search.html)索
 
 ## 下载链接
 链接挂掉了请提交[主页反馈](//github.com/kdXiaoyi/kdxiaoyi.github.io/issues/new/choose)
-* [核爆系统の工具宝库 和 虚拟机相关工具](./sharing/boom-system)
+* ***[Projects 项目](/Project/)***
 * [各种直播源](./sharing/live-video)
 * [Tom and Jerry 480P 带英文字幕](/resource-share/sharing/tom-and-jerry)
-* [间隔断网工具](./sharing/stop-internet)
-* [Get-AppxPackage 软件包安装程序の平替](/Project/Get-AppxPackage.exe/)
-* [压缩包密码字典](https://kdx233.github.io/Passwords/)
 * [WebViewer](/Project/WebViewer/)
 
 <!-- * [数学工具箱](/blogs/2022/5) -->
