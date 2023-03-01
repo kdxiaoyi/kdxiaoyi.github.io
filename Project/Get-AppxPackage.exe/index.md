@@ -1,5 +1,5 @@
 # Get-AppxPackage 软件包安装程序の平替
-<small><a href="/resource-share/">←返回</a> | 创建：2023-02-28 | 最后更新：2023-02-28</small><br>
+<small><a href="../">←返回</a> | 创建：2023-02-28 | 最后更新：2023-02-28</small><br>
 
 <big>[视频介绍](http://b23.tv/BV1VA411z7bq)</big> | <big>[制作语言包教程](./how-to-make-lang-profile)</big><br>
 [![](https://s1.ax1x.com/2023/02/28/ppCUGuT.png "All-v3;in-v1.1.0.0")](https://imgse.com/i/ppCUGuT)
