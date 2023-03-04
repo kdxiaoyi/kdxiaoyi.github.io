@@ -1,0 +1,31 @@
+name: 提个建议
+description: 什么好建议
+title: "[FET]: "
+labels: [""]
+assignees:
+  - kdXiaoyi
+
+body:
+  # - type: markdown
+  #   attributes:
+  #     value: |
+  #       Any language that is not Chinese will be thrown into Google Translate by me.
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: 描述你的伟大计划
+      description: (•̀ ω •́ )✧
+      placeholder: 我想……
+      value: ""
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: 附加条款
+      description: 您的建议一经采纳，即视为您同意我们使用您的创意到任何地方
+      options:
+        - label: 若您不勾选（同意）此项，则此ISSUES将被无条件关闭
+          required: true

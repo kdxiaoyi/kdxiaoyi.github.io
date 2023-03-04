@@ -1,0 +1,31 @@
+name: 提个建议
+description: 什么好建议
+title: "[FET]: "
+labels: [""]
+assignees:
+  - kdXiaoyi
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Any language that is not Chinese will be thrown into Google Translate by me.
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What do you want to do
+      description: (•̀ ω •́ )✧
+      placeholder: I want ...
+      value: ""
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Terms
+      description: We will use your idea without your agreement if your suggestion was adopted.
+      options:
+        - label: If you don't tick this checkbox (means agree that term), your issues will be closed for no reazon.
+          required: true

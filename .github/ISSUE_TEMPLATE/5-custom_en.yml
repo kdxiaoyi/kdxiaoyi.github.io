@@ -1,0 +1,22 @@
+name: Isseue without template
+description: Write anything here...
+title: ""
+labels: [""]
+assignees:
+  - kdXiaoyi
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Any language that is not Chinese will be thrown into Google Translate by me.
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Just write here
+      description: (•̀ ω •́ )✧
+      placeholder: 1234567890987654321
+      value: ""
+    validations:
+      required: true

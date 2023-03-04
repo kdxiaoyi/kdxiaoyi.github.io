@@ -1,0 +1,22 @@
+name: 自由发挥
+description: 开放式作文题目.jpg
+title: ""
+labels: [""]
+assignees:
+  - kdXiaoyi
+
+body:
+  # - type: markdown
+  #   attributes:
+  #     value: |
+  #       Any language that is not Chinese will be thrown into Google Translate by me.
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: 描述你的伟大……
+      description: (•̀ ω •́ )✧
+      placeholder: 233
+      value: ""
+    validations:
+      required: true

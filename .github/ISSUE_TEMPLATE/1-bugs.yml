@@ -1,0 +1,60 @@
+name: 反馈BUG
+description: 催我们修chong……特性
+title: "[Bug]: "
+labels: ["BUG 特性"]
+assignees:
+  - kdXiaoyi
+
+body:
+  # - type: markdown
+  #   attributes:
+  #     value: |
+  #       Any language that is not Chinese will be thrown into Google Translate by me.
+
+  - type: input
+    id: browser
+    attributes:
+      label: 你用的什么浏览器
+      description: 写版本号+系统版本
+      placeholder: e.g. Edge 110.0.1587.63 x64 on Windows 11 22H2
+    validations:
+      required: true
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: 哪里出了BUG？
+      description: 填写具体URL和BUG表现。[子项目](http://kdxiaoyi.github.io/projects)请不要使用此模板！
+      placeholder: https://
+      value: ""
+    validations:
+      required: true
+
+  - type: input
+    id: data
+    attributes:
+      label: 啥时候的事
+      description: 也许被修了
+      placeholder: e.g. 2099-02-30 00:00:00
+    validations:
+      required: false
+
+  # - type: dropdown
+  #   id: browsers
+  #   attributes:
+  #     label: What browsers are you seeing the problem on?
+  #     multiple: true
+  #     options:
+  #       - Firefox
+  #       - Chrome
+  #       - Safari
+  #       - Microsoft Edge
+
+  # - type: checkboxes
+  #   id: terms
+  #   attributes:
+  #     label: Code of Conduct
+  #     description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+  #     options:
+  #       - label: I agree to follow this project's Code of Conduct
+  #         required: true

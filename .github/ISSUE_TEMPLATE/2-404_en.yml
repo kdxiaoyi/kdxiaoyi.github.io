@@ -1,0 +1,60 @@
+name: Report 404
+description: Maybe it won't appear any longer
+title: "[Bug]: "
+labels: ["LOST PAGE 页面丢失"]
+assignees:
+  - kdXiaoyi
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Any language that is not Chinese will be thrown into Google Translate by me.
+
+  - type: input
+    id: browser
+    attributes:
+      label: Which browser you use?
+      description: Browser version and system version
+      placeholder: e.g. Edge 110.0.1587.63 x64 on Windows 11 22H2
+    validations:
+      required: true
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Where was 404？
+      description: 填写具体URL和404表现（是Github的404还是奇怪的404呢）。
+      placeholder: https://
+      value: ""
+    validations:
+      required: true
+
+  - type: input
+    id: data
+    attributes:
+      label: When?
+      description: Maybe it be resolved
+      placeholder: e.g. 2099-02-30 00:00:00
+    validations:
+      required: false
+
+  # - type: dropdown
+  #   id: browsers
+  #   attributes:
+  #     label: What browsers are you seeing the problem on?
+  #     multiple: true
+  #     options:
+  #       - Firefox
+  #       - Chrome
+  #       - Safari
+  #       - Microsoft Edge
+
+  # - type: checkboxes
+  #   id: terms
+  #   attributes:
+  #     label: Code of Conduct
+  #     description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+  #     options:
+  #       - label: I agree to follow this project's Code of Conduct
+  #         required: true
