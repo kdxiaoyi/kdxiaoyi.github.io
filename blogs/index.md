@@ -7,6 +7,8 @@ _TIP: 键入`kdxiaoyi.github.io/blogs/[年份]/[BLOG序号]/`快速打开博客_
 最后更新：文档**内容**最后被更新时间
 
 ## 2023
+[17# 如何看待深圳南头中学强制要求学生购买所谓的听说材料？↗](https://www.zhihu.com/question/278432592/answer/2920800289)<br>
+[16# ]()<br>
 [15# 看完流浪地球2，我的看法……](/blogs/2023/15-The.Wandering.Earth)<br>
 [14# BDS 1.19.60 配置文件汉化，含`server-authoritative-movement`](/blogs/2023/14)<br>
 [13# appx安装器平替  WinQQ官方简洁版使用技巧](/blogs/2023/13)<br>
@@ -16,7 +18,7 @@ _TIP: 键入`kdxiaoyi.github.io/blogs/[年份]/[BLOG序号]/`快速打开博客_
 
 ## 2022
 [9# 大改Github Pages！（换Github Pages背景并加速）](/blogs/2022/9)<br>
-<!-- [#大事 迷你迷你VS我的世界 落下帷幕](https://kdx233.github.io/res/docs/Miniplay_lost/)<br> -->
+<!-- [大事# 迷你迷你VS我的世界 落下帷幕](https://kdx233.github.io/res/docs/Miniplay_lost/)<br> -->
 [大事# 中华人民共和国前任主席江泽民不幸去世↗](https://baijiahao.baidu.com/s?id=1751005478603095729)<br>
 [8# Live2D 入侵网课](/blogs/2022/8)<br>
 [7# Windows 上常用的拓展插件](/blogs/2022/7)<br>
