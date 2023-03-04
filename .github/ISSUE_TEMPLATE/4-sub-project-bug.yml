@@ -1,5 +1,5 @@
-name: 反馈BUG （子项目专属）
-description: 催我们修chong……特性
+name: "反馈BUG （子项目专属）"
+description: "催我们修chong……特性"
 title: "[SuBug]: "
 labels: ["BUG 特性","SUB PROJECT 子项目相关"]
 assignees:
@@ -14,8 +14,8 @@ body:
   - type: input
     id: project_name
     attributes:
-      label: 什么B动静
-      description: 哪个破项目出BUG了？版本如何？最新版吗？
+      label: "什么B动静"
+      description: "哪个破项目出BUG了？版本如何？最新版吗？"
       placeholder: e.g. Get-AppxPackage.exe v0.0.0.0@-1
     validations:
       required: true
@@ -23,18 +23,18 @@ body:
   - type: input
     id: sys
     attributes:
-      label: 你用的什么系统
-      description: 写系统版本
-      placeholder: e.g. Windows 11 22H2 22623.746 64位
+      label: "你用的什么系统"
+      description: "写系统版本"
+      placeholder: "e.g. Windows 11 22H2 22623.746 64位"
     validations:
       required: true
 
   - type: textarea
     id: what-happened
     attributes:
-      label: 哪里出了BUG？
-      description: 填写具体BUG表现和触发方式。
-      placeholder: BSODed !
+      label: "哪里出了BUG？"
+      description: "填写具体BUG表现和触发方式。"
+      placeholder: "BSODed !"
       value: ""
     validations:
       required: true
@@ -42,9 +42,9 @@ body:
   - type: input
     id: data
     attributes:
-      label: 啥时候的事
-      description: 也许被修了
-      placeholder: e.g. 2099-02-30 00:00:00
+      label: "啥时候的事"
+      description: "也许被修了"
+      placeholder: "e.g. 2099-02-30 00:00:00"
     validations:
       required: false
 

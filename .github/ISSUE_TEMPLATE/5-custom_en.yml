@@ -1,5 +1,5 @@
-name: Isseue without template
-description: Write anything here...
+name: "Isseue without template"
+description: 
 title: ""
 labels: [""]
 assignees:
@@ -14,9 +14,9 @@ body:
   - type: textarea
     id: what-happened
     attributes:
-      label: Just write here
-      description: (•̀ ω •́ )✧
-      placeholder: 1234567890987654321
+      label: "Just write here"
+      description: " (•̀ ω •́ )✧"
+      placeholder: "1234567890987654321"
       value: ""
     validations:
       required: true

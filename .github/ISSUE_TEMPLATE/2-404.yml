@@ -1,5 +1,5 @@
-name: 反馈404
-description: 也许这个页面被外星人搞走了
+name: "反馈404"
+description: "也许这个页面被外星人搞走了"
 title: "[404]: "
 labels: ["LOST PAGE 页面丢失"]
 assignees:
@@ -14,18 +14,18 @@ body:
   - type: input
     id: browser
     attributes:
-      label: 你用的什么浏览器
-      description: 写版本号+系统版本
-      placeholder: e.g. Edge 110.0.1587.63 x64 on Windows 11 22H2
+      label: "你用的什么浏览器"
+      description: "写版本号+系统版本"
+      placeholder: "e.g. Edge 110.0.1587.63 x64 on Windows 11 22H2"
     validations:
       required: true
 
   - type: textarea
     id: what-happened
     attributes:
-      label: 哪里404了？
-      description: 填写具体URL和404表现（是Github的404还是奇怪的404呢）。
-      placeholder: https://
+      label: "哪里404了？"
+      description: '填写具体URL和404表现（是Github的404还是奇怪的404呢）。'
+      placeholder: "https://"
       value: ""
     validations:
       required: true
@@ -33,9 +33,9 @@ body:
   - type: input
     id: data
     attributes:
-      label: 啥时候的事
-      description: 也许被修了
-      placeholder: e.g. 2099-02-30 00:00:00
+      label: "啥时候的事"
+      description: "也许被修了"
+      placeholder: "e.g. 2099-02-30 00:00:00"
     validations:
       required: false
 

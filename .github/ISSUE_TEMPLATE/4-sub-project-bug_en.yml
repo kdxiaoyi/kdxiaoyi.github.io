@@ -1,5 +1,5 @@
-name: Report a Sub Project BUG
-description: Make us re-be alive and fix it up
+name: "Report a Sub Project BUG"
+description: "Make us re-be alive and fix it up"
 title: "[SuBug]: "
 labels: ["BUG 特性","SUB PROJECT 子项目相关"]
 assignees:
@@ -9,31 +9,31 @@ body:
   - type: markdown
     attributes:
       value: |
-        Any language that is not Chinese will be thrown into Google Translate by me.
+        "Any language that is not Chinese will be thrown into Google Translate by me."
 
     - type: input
     id: project_name
     attributes:
-      label: Which sub project?
-      description: What's it? What's the version? Are you using the most new version?
-      placeholder: e.g. Get-AppxPackage.exe v0.0.0.0@-1
+      label: "Which sub project?"
+      description: "What's it? What's the version? Are you using the most new version?"
+      placeholder: "e.g. Get-AppxPackage.exe v0.0.0.0@-1"
     validations:
       required: true
 
   - type: input
     id: sys
-    attributes: System Version
-      description: VERSION OF YOUR SYSTEM
-      placeholder: e.g. Windows 11 22H2 22623.746 64bit
+    attributes: "System Version"
+      description: "VERSION OF YOUR SYSTEM"
+      placeholder: "e.g. Windows 11 22H2 22623.746 64bit"
     validations:
       required: true
 
   - type: textarea
     id: what-happened
     attributes:
-      label: What's up with the BUG?
-      description: How bug works ang how to show it?
-      placeholder: BSODed !
+      label: "What's up with the BUG?"
+      description: "How bug works ang how to show it?"
+      placeholder: "BSODed !"
       value: ""
     validations:
       required: true
@@ -42,8 +42,8 @@ body:
     id: data
     attributes:
       label: When
-      description: Maybe it be resolved
-      placeholder: e.g. 2099-02-30 00:00:00
+      description: "Maybe it be resolved"
+      placeholder: "e.g. 2099-02-30 00:00:00"
     validations:
       required: false
 

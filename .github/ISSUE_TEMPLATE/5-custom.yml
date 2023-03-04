@@ -1,5 +1,5 @@
-name: 自由发挥
-description: 开放式作文题目.jpg
+name: "自由发挥"
+description: "开放式作文题目.jpg"
 title: ""
 labels: [""]
 assignees:
@@ -14,9 +14,9 @@ body:
   - type: textarea
     id: what-happened
     attributes:
-      label: 描述你的伟大……
-      description: (•̀ ω •́ )✧
-      placeholder: 233
+      label: "描述你的伟大……"
+      description:" (•̀ ω •́ )✧"
+      placeholder: "233"
       value: ""
     validations:
       required: true
