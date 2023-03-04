@@ -51,5 +51,5 @@ title: "kdXiaoyi"
 <center>坑爹的夏天难道不很令人O-Yi吗</center>
 
 ---
-<center>友情链接</center>
+<small><center>友情链接</center></small>
 暂无
