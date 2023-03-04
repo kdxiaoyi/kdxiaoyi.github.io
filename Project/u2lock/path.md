@@ -1,7 +1,8 @@
 # u2lock - Path
 <small><a href="./index">←返回</a></small><br>
 
-# KDX233.PAN的部分文件索引
+# KDX233.PAN
+
 | 文件名 | 备注 |
 |-|-|
 | [u2lock.exe](https://kdx233.github.io/res/projects/u2lock/u2lock.exe)|u2lock 二进制分发文件|
