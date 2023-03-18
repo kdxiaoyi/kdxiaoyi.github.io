@@ -1,6 +1,8 @@
 # u2lock
 <small><a href="../">←返回</a> | 创建：2023-03-05 | 最后更新：2023-03-05</small><br>
 
+# [宣传片](https://www.bilibili.com/video/BV1so4y1q7Ft/)
+
 # 起因
 看了某个引流号的视频突发奇想做个颜值更高且没有套路的U盘锁屏软件
 
