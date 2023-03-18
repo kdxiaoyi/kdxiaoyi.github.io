@@ -1,5 +1,5 @@
 # 18# 一键禁用Edge的Bing Discover (Sidebar)
-<small><a href="../">←返回</a> | 创建：20??-??-?? | 最后更新：20??-??-??</small><br>
+<small><a href="../">←返回</a> | 创建：2023-03-18 | 最后更新：2023-03-18</small><br>
 
 # 方式1
 [工具下载页](/disabled-edge-sidebar/)
