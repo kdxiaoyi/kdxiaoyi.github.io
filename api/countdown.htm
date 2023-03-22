@@ -58,10 +58,10 @@
 			var ShouldAddTime=0//数据为整数后，声明变量
 			//判断应采用正计时还是倒计时   ShouldAddTime=1为正计时
 			let s1 = Math.floor((new Date(y,m-1,d).getTime() - Date.now())/1000);
-			if (Math.floor(s1 / 60 / 60 / 24) <= 0) {var ShouldAddTime=1;};
-			if (Math.floor(s1 / 60 / 60 % 24) <= 0) {var ShouldAddTime=1;};
-			if (Math.floor(s1 / 60 % 60 ) <= 0) {var ShouldAddTime=1;};
-			if (Math.floor(s1 % 60 ) <= 0) {var ShouldAddTime=1;};
+			if (Math.floor(s1 / 60 / 60 / 24) < 0) {var ShouldAddTime=1;};
+			if (Math.floor(s1 / 60 / 60 % 24) < 0) {var ShouldAddTime=1;};
+			if (Math.floor(s1 / 60 % 60 ) < 0) {var ShouldAddTime=1;};
+			if (Math.floor(s1 % 60 ) < 0) {var ShouldAddTime=1;};
 			if (ShouldAddTime==1) {
 				console.log('Enable positive timing mode.');
 				var intervalID = setInterval(() => {RefreshCountup(y,m,d)}, 1000);

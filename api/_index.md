@@ -27,7 +27,7 @@ back= [1]
 如果为`1`，将会跳转后进行**一次**返回<br>
 这适用于：*e.g.* 当不识别MS-STORE链接时用[MS-STORE链接调用MSStore](http://kdxiaoyi.github.io/api/jump.htm?back=1&u=ms-windows-store://pdp/?ProductId=9WZDNCRFHVN5)
 
-### [alert](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/.htm)
+### [alert](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/alert.htm)
 创建一个提示框，并返回至上一页面。<br>
 你问我这不就一句alert()的事吗？`github.io`的`markdown`解释器不接受`javascpirt:`链接。
 ```
