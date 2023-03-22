@@ -9,3 +9,5 @@
 这通常是由于在传递参数时没有传入有效`url`数据导致的
 ## `API/ms-o:no_doc`
 没有传入`src`参数
+## `API/countdown:invaid`
+`y`/`m`/`d`参数中有任何一个参数不为整数时触发

@@ -64,6 +64,19 @@ back.htm
 ---
 ```
 
+### [Countdown](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/third-party/countdown.htm)
+自动（倒）计时
+```
+countdown.htm
+---
+y= <Int>
+m= <Int>
+d= <Int>
+```
+依次提供目的年、月、日<br>
+若提供时间早于现行时间，自动切换为正计时模式。<br>
+`hide=1`时隐藏“距离文本”
+
 ## ./third-party
 
 ### [ifr](https://github.com/kdXiaoyi/kdxiaoyi.github.io/blob/main/api/third-party/ifr.htm)
