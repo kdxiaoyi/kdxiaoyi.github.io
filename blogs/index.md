@@ -7,6 +7,7 @@ _TIP: 键入`kdxiaoyi.github.io/blogs/[年份]/[BLOG序号]/`快速打开博客_
 最后更新：文档**内容**最后被更新时间
 
 ## 2023
+[19# 攻破步步高X2 (P22H190)家教机平板](./2023/19-bbg-x2-p22h190)<br>
 [18# 一键禁用Edge的Bing Discover (Sidebar)](/blogs/2023/18-edge-sidebar)<br>
 [17# 如何看待深圳南头中学强制要求学生购买所谓的听说材料？↗](https://www.zhihu.com/question/278432592/answer/2920800289)<br>
 [16# ]()<br>
