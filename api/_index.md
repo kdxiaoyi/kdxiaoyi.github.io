@@ -75,7 +75,12 @@ d= <Int>
 ```
 依次提供目的年、月、日<br>
 若提供时间早于现行时间，自动切换为正计时模式。<br>
-`hide=1`时隐藏“距离文本”
+`hide=1`时隐藏“距离文本”<br>
+
+一个合理的利用例程是：[`./countdown.htm?y=2058&m=7&d=1`](./countdown.htm?Timer_Type=60Hours&y=2058&m=7&d=1)
+
+一个修改例程是一个Fork版本，它展示了如何修改源代码以实现**同时支持**`参数输入`**和**`自定义默认时间`、创建一个自定义外壳<br>
+View Code ‖ [外壳](https://github.com/kdX233/kdx233.github.io/blob/master/res/examples/api.countdown/ZK2023.htm) | [计时器](https://github.com/kdX233/kdx233.github.io/blob/master/res/examples/api.countdown/countdown_zk2023_hubei.htm)<br>[查看最终成品](https://kdx233.github.io/res/examples/ZK2023.htm)
 
 ## ./third-party
 
