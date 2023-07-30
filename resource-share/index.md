@@ -9,7 +9,7 @@ Ctrl+F(或Command+F对于MacOS) 以进行[搜](/search.html)索
 ## 下载链接
 链接挂掉了请提交[主页反馈](//github.com/kdXiaoyi/kdxiaoyi.github.io/issues/new/choose)
 * ***[Projects 项目](/Project/)***
-* [珍贵的资源宝库  你可以在这里找到许多玩机工具](https://pan.huang1111.cn/s/2Q4XTN)
+* [珍贵的资源宝库  你可以在这里找到许多玩机工具](/resource-share/sharing/boom-system)
 * [各种直播源](./sharing/live-video)
 * [Tom and Jerry 480P 带英文字幕](/resource-share/sharing/tom-and-jerry)
 * [WebViewer](/Project/WebViewer/)
